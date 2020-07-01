@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lambdata_hde", # Replace with your own username
+    name="lambdata_hde",  # Replace with your own username
     version="1.0",
     author="Hernan Echeverry",
     author_email="hdmecheverry@gmail.com",
